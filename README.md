@@ -17,4 +17,4 @@ I'm a Ph.D. statistician and open-source developer building high-performance too
 
 ---
 
-📫 Reach me: [blakemoya@gmail.com](mailto:blake.moya@gmail.com) • [LinkedIn](https://linkedin.com/in/blake-moya)
+📫 Reach me: [blake.moya@gmail.com](mailto:blake.moya@gmail.com) • [LinkedIn](https://linkedin.com/in/blake-moya)
